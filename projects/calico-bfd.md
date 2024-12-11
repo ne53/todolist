@@ -10,8 +10,6 @@
 
 -  `BFD` が実装されていないのはかなり不便であるため、雑な形になってもいいのでフォークして実装する
 
-- 起動時に `register` および `generate` を実行し、プロファイルを自動生成する `docker-entrypoint.sh` を作成する
-
 ## 関連リンク
 
 - [BFD configuration](https://docs.tigera.io/calico-cloud/reference/resources/bfdconfig) - Calico Documentation - Tigera
